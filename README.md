@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GopinathManikandan
 - 👀 I’m interested in ... Devoloping the codings
-- 🌱 I’m currently learning ... Pythin in Data Science, AI [ARTIFICIAL INTELLIGENCE]
+- 🌱 I’m currently learning ... Python in Data Science, AI [ARTIFICIAL INTELLIGENCE]
 - 💞️ I’m looking to collaborate on ... high paying companies
 - 📫 How to reach me ... Email - gopinath.m09032005@gmail.com
 - 😄 Pronouns: ... Programmers didn't fall in love 
